@@ -8,4 +8,4 @@ Cleaning Steps:
 
 2. For the range of salary: split column by lower and upper range>added new column with calculation of average>deleted the split columns.
 
-3. 
+3. Created a dashboard using Power BI.
