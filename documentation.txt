@@ -1,0 +1,11 @@
+Problems faced and solved:
+1. Date issue: Had to change date format from US to EU because of my system environment. Solved using: https://purplecomputing.com/tech-how-to/microsoft-office/convert-us-dates-to-uk-excel/
+
+2. How to remove filter after replaced values in a column. Fixed using: https://community.powerbi.com/t5/Desktop/Remove-filter-in-Query-Editor/m-p/412625#M189371
+
+Cleaning Steps:
+1. Replaced freeform text data in questions containing 'Other(please specify): ...' type answers with just 'Other'. This still keeps the data while ignoring the irrelevant sector for our analysis purposes. First split column by delimiter>removed the split column.
+
+2. For the range of salary: split column by lower and upper range>added new column with calculation of average>deleted the split columns.
+
+3. 
